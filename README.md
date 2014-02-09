@@ -1,0 +1,1 @@
+This is a ore-gen setup for the upcoming Inorganic Chemistry mod, possibly to be joined up with GKCK by Mandrake (MFernflower)
